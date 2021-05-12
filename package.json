@@ -16,7 +16,7 @@
     "pg": "^6.1.5",
     "superagent": "^3.5.2",
     "express": "4.15.3",
-    "mathjs": "^4.2.0",
+    "mathjs": "^7.5.1",
     "sqlite": "3.0.0"
   },
   "devDependencies": {
